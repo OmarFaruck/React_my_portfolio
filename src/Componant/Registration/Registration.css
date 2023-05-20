@@ -1,0 +1,26 @@
+.Sing {
+    font-weight: 600;
+    font-family: ui-sans-serif;
+    font-size: 2rem !important;
+    padding-bottom: 1rem;
+    color: #f8f8f8 !important;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+@media (min-width: 320px) and (max-width: 425px){
+.Sing {
+    font-size: 20px !important;
+    text-align: center;
+} 
+}
+@media (min-width: 425px) and (max-width: 768px){
+.Sing {
+    text-align: center; 
+}
+}
+@media (min-width: 768px) and (max-width: 1024px){
+.Sing {
+    text-align: center; 
+}
+}

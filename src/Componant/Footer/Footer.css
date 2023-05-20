@@ -1,0 +1,58 @@
+.text-center.mainfooter{
+    color: #302e2eab;
+    font-family: ui-sans-serif;
+    padding-bottom: 20px;
+ }
+ .text-center.mainfooter h2,p {
+    color: #302e2eab !important;
+    font-family: ui-sans-serif;
+    font-weight: 600;
+ }
+ section#footer {
+    background-color: #f3f3f3;
+    padding-top: 40px; 
+    margin-top: 20px;
+}
+.font_icon {
+        width: 0px!important;
+    text-align: end;
+    color: aliceblue;
+    display: flex;
+} 
+ 
+.font_icon svg.envelope_1 {
+    font-size: 35px;
+    margin-left: 10px !important;  
+    color: #00000075 !important;
+}
+.font_icon svg.Google {
+    font-size: 35px;
+    margin-left: 42px !important;
+    color: #00000075 !important;
+}
+.font_icon svg.facebook {
+    font-size: 35px;
+    margin-left: 10px !important;  
+    color: #00000075 !important;
+}
+.font_icon svg.github {
+    font-size: 35px;
+    margin-left: 10px !important;  
+    color: #00000075 !important;
+}
+@media screen and (min-width: 320px) and (max-width: 425px){
+    
+}
+@media screen and (min-width: 425px) and (max-width: 768px){
+  
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+     
+}
+@media screen and (min-width: 1024px) and (max-width: 1200px){
+ 
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px){
+  
+}

@@ -1,0 +1,35 @@
+label.text-light.form-label {
+    font-size: 23px;
+}
+.new_link.new {
+    padding: 1px;
+    background-color: #514f5dde !important;
+    padding-top: 14px !important;
+    border-radius: 10px;
+}
+.new_link p:hover {
+    color: aliceblue !important;
+}
+.new_link p {
+    color: aliceblue !important;
+}
+.new_link a {
+    color: aliceblue !important;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.new_link p {
+    /* font-size: 27px; */
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+button.btn.text-light.mt-3.mb-5.submit.btn.btn-primary {
+    border: none;
+    background-color: #514f5dde !important;
+    padding: 12px;
+}
+input.form-control {
+    padding: 13px !important;
+}
